@@ -43,7 +43,6 @@ s.listen()
 while True:
     c,addr=s.accept()
     st=c.recv(1024).decode()
-    print(st)
     if len(st)>0:
         a,b=st.split(":")
         if a=="$$":
