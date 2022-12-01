@@ -1,4 +1,4 @@
-# yet-another-kafka (YaK)
+# Yet Another Kafka (YaK)
 An end-to-end socket programming based project to simulate Apache Kafka in a small scale, as a part of University Elective (Big Data - UE20CS322). <br/>
 
 The following features are implemented:  <br/>
